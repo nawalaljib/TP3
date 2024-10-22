@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TP3</string>
+    <string name="bank_app">Cloud Bank</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="Login">Login</string>
+    <string name="forgot">Forgot password?</string>
+    <string name="my_map_api_key">AIzaSyAfsITkAm-Iba4iMXG5b4_ashXMS8qGFnU</string>
+    <string name="title_activity_maps">MapsActivity</string>
+
+</resources>
